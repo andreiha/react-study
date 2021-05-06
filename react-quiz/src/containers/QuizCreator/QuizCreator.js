@@ -1,4 +1,5 @@
 import React from 'react';
+import './QuizCreator.css';
 
 class QuizCreator extends React.Component {
     render() {
